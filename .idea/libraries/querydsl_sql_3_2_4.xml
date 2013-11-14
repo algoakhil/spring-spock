@@ -1,8 +1,6 @@
 <component name="libraryTable">
   <library name="querydsl-sql-3.2.4">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.mysema.querydsl/querydsl-sql/3.2.4/jar/280723d5d940a289637f46abb8a953b3d48136c3/querydsl-sql-3.2.4.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.mysema.querydsl/querydsl-sql/3.2.4/source/2b0b45e8fb5fdc264bec37298eed698ef3ee9e8d/querydsl-sql-3.2.4-sources.jar!/" />

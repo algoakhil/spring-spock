@@ -1,5 +1,6 @@
 package com
 
+import com.algo.Employee
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.ComponentScan
 import org.springframework.context.annotation.Configuration
@@ -31,6 +32,10 @@ class GroovyConfig {
         new Customer(fname: 'Akhil', lname: 'Shastri')
     }
 
+    @Bean
+    public Employee getEmployee() {
+        new Employee(code: 'code01', name: 'name1')
+    }
 
     @Bean
     public DataSource dataSource() {

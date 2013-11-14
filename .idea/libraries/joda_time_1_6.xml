@@ -1,8 +1,6 @@
 <component name="libraryTable">
   <library name="joda-time-1.6">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/joda-time/joda-time/1.6/jar/5a18504e34c5cbe9259d6fd0123ccf6f16115a41/joda-time-1.6.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/joda-time/joda-time/1.6/source/1c206dcf51d4ef1db4f8e44ab0222b3c91efb0bf/joda-time-1.6-sources.jar!/" />
